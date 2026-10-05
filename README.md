@@ -1,6 +1,6 @@
 # Hi there, I'm Shruti 👋
 
-💻 Java Backend Developer (Fresher)  
+💻 Java Developer|Full Stack Developer (Fresher)  
 📍 Bangalore, India
 
 Passionate about building backend applications using Java, Spring Boot, and MySQL.
