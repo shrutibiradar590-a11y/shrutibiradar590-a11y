@@ -1,6 +1,6 @@
 # Hi there, I'm Shruti 👋
 
-💻 Java Developer|Full Stack Developer (Fresher)  
+💻 Java Developer | Full Stack Developer (Fresher)  
 📍 Bangalore, India
 
 Passionate about building backend applications using Java, Spring Boot, and MySQL.
@@ -59,5 +59,7 @@ https://drive.google.com/file/d/1pVn52m9d-dEzBT4TxbL39RWmYsHHS6GQ/view?usp=drive
 📧 Email: shrutibiradar590@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/shruti-biradar-b0707b27a  
 🐙 GitHub: https://github.com/shrutibiradar590-a11y
+🌐 Portfolio:
+https://shruti-biradar-portfolio.vercel.app/
 
 ⭐ Thanks for visiting my GitHub profile!
